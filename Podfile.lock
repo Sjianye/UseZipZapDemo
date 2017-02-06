@@ -1,0 +1,15 @@
+PODS:
+  - Masonry (1.0.2)
+  - zipzap (8.1.1)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.2)
+  - zipzap (~> 8.1.1)
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  zipzap: 940162d9c9c60472c2eab341385e4214da0fdf1c
+
+PODFILE CHECKSUM: da67ce9826924069e73826ac88cd410e46264905
+
+COCOAPODS: 1.0.1
